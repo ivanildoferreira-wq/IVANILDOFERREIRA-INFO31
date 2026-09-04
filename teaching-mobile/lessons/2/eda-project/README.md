@@ -148,7 +148,7 @@ Ao finalizar:
 
 Antes de entregar, verifique:
 
-- [ ] `SituacaoIndicador` aceita somente `"adequado"` e `"atencao"`;
+- [] `SituacaoIndicador` aceita somente `"adequado"` e `"atencao"`;
 - [ ] os objetos de `INDICADORES` seguem a interface `IndicadorEDA`;
 - [ ] `formatarValor` mantém parâmetros e retorno tipados;
 - [ ] `CartaoIndicador` recebe um indicador por `props`;
